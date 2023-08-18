@@ -1,0 +1,25 @@
+nav div img {
+    width: 75px;
+}
+
+.fs-10 {
+    font-size: 10px;
+}
+
+header .row .inner {
+    height: 350px;
+}
+header .row .innerColorFL  {
+    background-color: #323544 ;
+    color: white;
+}
+header .row .innerColorFLIn  {
+    background-color: #2d303d ;
+}
+header .row .innerColorIn  {
+    background-color: #262936 ;
+    color: white;
+}
+header .row .innerColorInIn  {
+    background-color: #222530 ;
+}
